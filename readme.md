@@ -1,4 +1,4 @@
-# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Express Microblog App Continued
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Express Microblog Continued
 
 **Objective:** Add user authentication to your Microblog app by following today's <a href="https://github.com/sf-wdi-24/modules/tree/master/week-04-associated-data-and-users/day-02/module-02" target="_blank">Auth Tutorial</a>.
 
